@@ -10,7 +10,6 @@ package helloworld;
  */
 public class ArrayDemo {
     //added first comment
-    //added comment for revert
     public static void main(String[] args){
     char[] myLetters = new char[9];
     myLetters[0] = 'J';
